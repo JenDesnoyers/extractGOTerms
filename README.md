@@ -8,6 +8,7 @@ May not actually be able to use this script since it requires an R script I do n
 //////////////////////////////////////////////////////////////////////Dependencies////////////////////////////////////////////////////////////////////////////// 
 
 #Unix (I'm using Darwin Kernel Version 16.7.0 but I'm sure it'll work on older versions, I just don't know HOW old)
+
 #R version 3.4.3
 
 
